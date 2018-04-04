@@ -1,0 +1,2 @@
+mkvmerge "/media/server/aufnahmen/RTL2/American_Ultra.mkv" --split parts:625s-1805s,+2206s-6069s -o "/media/server/filme/geschnitten/American_Ultra.mkv"; mv "/media/server/aufnahmen/RTL2/American_Ultra.mkv" "/media/server/aufnahmen/RTL2/American_Ultra.mkv.bak"
+mkvmerge "/media/server/aufnahmen/RTL2/Der_Grinch.mkv" --split parts:655s-1809s,+2378s-3816s,+4307s-5642s,+6052s-7277s,+7780s-8221s -o "/media/server/filme/geschnitten/Der_Grinch.mkv"; mv "/media/server/aufnahmen/RTL2/Der_Grinch.mkv" "/media/server/aufnahmen/RTL2/Der_Grinch.mkv.bak"
